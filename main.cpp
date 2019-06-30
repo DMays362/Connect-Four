@@ -1,17 +1,17 @@
 /******************************************************************/
 /*                                                                */
-/*    CS 470								                      */
+/*    CS 470							  */
 /*    Spring Semester, 2018                                       */
 /*                                                                */
-/*    Term Project: Connect Four with AI	                      */
+/*    Term Project: Connect Four with AI	                  */
 /*    This program simulates a game of Connect Four. It starts	  */
-/*	  with a human move, then alternates between computer and	  */
-/*	  human. User input is used for the human choice and the	  */
-/*	  minimax AI algorithm is used for the computer choice.		  */
+/*	  with a human move, then alternates between computer and */
+/*	  human. User input is used for the human choice and the  */
+/*	  minimax AI algorithm is used for the computer choice.	  */
 /*                                                    	          */
 /*    Programmed by: Dylan Mays                                   */
 /*                                                                */
-/*    Due: Monday April 30, 2018 	                              */
+/*    Due: Monday April 30, 2018 	                          */
 /*                                                                */
 /******************************************************************/
 
